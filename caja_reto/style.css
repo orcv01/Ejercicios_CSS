@@ -1,0 +1,26 @@
+:root {
+    font-size: 16px; /* Tamaño base */
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+
+.container > img {
+    width: 200px;
+    height: auto;
+    background-color: goldenrod;
+    padding: 25px;
+    margin: auto;
+}
+
+
+
+
