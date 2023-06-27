@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(61, 6, 189);
+    color: whitesmoke;
+    }
+    h1 {
+    text-transform: uppercase;
+    }
+    li {
+    color: crimson;
+    font-style: italic;
+    }
+    

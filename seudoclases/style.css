@@ -1,0 +1,43 @@
+button:active {
+    color: #ff5900;
+    font-weight: bold;
+    }
+   
+    a:any-link {
+        color: crimson;
+        font-weight: bold;
+        }
+
+    input:checked + label {
+        color: crimson;
+        }
+
+    button:disabled {
+        color: red;
+        }
+    button:disabled {
+        color: red;
+        }
+    button:enabled {
+        color: green;
+        }
+                    
+    li:first-child {
+        color: crimson;
+        }
+            
+    input:focus {
+        background-color: burlywood;
+        }           
+
+    div:hover {
+        background-color: crimson;
+        }        
+        input:invalid {
+            background-color: crimson;
+        }
+        a:link {
+            color: red;
+        }    
+
+        
